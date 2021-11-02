@@ -75,10 +75,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart ElsaMwol V2.1",
-            "RESTART_MSG": "ʀᴇsᴛᴀʀᴛɪɴɢ  ᴇʟsᴀ ᴍᴡᴏʟ🦄",
-            "SHUTDOWN_DESC": "Shutdown ElsaMwol",
-            "SHUTDOWN_MSG": "𝚂𝚑𝚞𝚝𝚝𝚒𝚗𝚐 𝚍𝚘𝚠𝚗 😖",
+            "RESTART_DESC": "Restart Alexa",
+            "RESTART_MSG": "Restarting Alexa",
+            "SHUTDOWN_DESC": "Shutdown Alexa",
+            "SHUTDOWN_MSG": "Shutting down 😖",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -148,7 +148,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```lavan poyi 🤣```",
+            "KICKME": "```poyi 🤣```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -192,7 +192,7 @@
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=t1r_tmgQago```",
             "DOWNLOADING_VIDEO": "ᴜᴍ ᴡᴀɪᴛ ᴋᴏᴄʜ ᴋᴀʟʟᴀɴ",
             "UPLOADING_VIDEO": "ᴇᴅᴀ ᴍᴏɴᴜ ᴘᴏʟɪ ᴠɪᴅᴇᴏ ᴜᴍᴍᴀʜ",
-            "YT_DESC": "Thappuva Ni Wait Akk.",
+            "YT_DESC": "*Searching please wait.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "\n*Reply to a photo or video!*\n",
-            "DOWNLOADING": "```Wait Chey Jeem Boom Bhaa...🧞‍♂️```"
+            "DOWNLOADING": "```Creating sticker...🧞‍♂️```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -225,14 +225,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "```ElsaMwol 😜 completely up-to-date!```",
-            "NEW_UPDATE": "```New update available for ElsaMwol 😌!```\n\nChanges:\n```",
+            "UPDATE": "```Alexa 😜 completely up-to-date!```",
+            "NEW_UPDATE": "```New update available for Alexa 😌!```\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating...👻```",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*✅  Updated!*",
             "UPDATED_LOCAL": "*✅ Updated!*",
-            "AFTER_UPDATE": "```ElsaMwol 🍭 Restarting !```",
+            "AFTER_UPDATE": "```Alexa Restarting !```",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
