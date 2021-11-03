@@ -27,7 +27,7 @@ if (Config.WORKTYPE == 'private') {
             await message.client.sendMessage(message.jid,'ElsaMwol created by *JIHAD*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNRN + '\n\n---------------------', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.OWNRN + '\n\n---💝-------💝------💝-----', MessageType.text);
         }
     }));
 }
@@ -42,10 +42,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNRN == 'default') {
-            await message.client.sendMessage(message.jid,'ElsaMwol created by *JIHAD*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'Alexa created by *Hari*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNRN + '\n\n--------------------', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.OWNRN + '\n\n----💝-----💝----💝-------', MessageType.text);
         }
     }));
 }
